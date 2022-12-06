@@ -1,0 +1,38 @@
+* {
+    align-items: center;
+    font-family: 'Libre Baskerville', monospace;
+    background-color: rgba(240, 69, 183, 0.205)
+}
+
+body {
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+}
+
+h1 {
+    padding: 10% 0 0 1%;
+    color: rgb(13, 13, 226);
+}
+
+#textoASerCodificado,
+#textoASerRetornado {
+    margin-top: 30px;
+    padding: 10px 150px;
+    border-radius: 10px;
+}
+
+#radius,
+#deslocamento {
+    color: rgb(16, 20, 238);
+
+}
+
+#cod,
+#decod {
+    color: rgb(242, 239, 245);
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(46, 11, 241);
+    cursor: pointer;
+}
